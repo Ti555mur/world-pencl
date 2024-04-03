@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    margin: 460px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;  
+}
+
+font {
+    background-color: ;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: #01939A;
+    padding: 10px 10px 10px 20px;
+}
+
+header {
+    background-color: #D9D9D9;
+}
+
+.stydy {
+    color: #FF7600;
+}
+
+.special_link {
+    color: black;
+    background-color: lime;
+}
+
+nav {
+    margin: 20px 20px 20px 100px;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+header {
+    background-color: #01939A;
+}
+
+footer {
+    background-color: #006064;
+    
+}
